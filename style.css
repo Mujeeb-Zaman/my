@@ -11,6 +11,7 @@
 *::after,
 *::before{
     box-sizing: border-box;
+    border: #023047;
 }
 *{
     padding: 0;
